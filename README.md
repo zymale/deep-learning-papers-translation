@@ -78,6 +78,8 @@
 
 Musk-RCNN 翻译
 https://blog.csdn.net/xiaqunfeng123/article/details/78716136
+R-CNN翻译
+https://blog.csdn.net/xiaqunfeng123/article/details/78715983
 ## OCR
 
 * CRNN  
